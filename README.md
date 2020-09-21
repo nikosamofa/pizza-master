@@ -8,7 +8,7 @@ This is a simple repo demo to get me started with Githaub.com
 
 I'm Nikos, i enjoy coding and learning new things. 
 Here is the like to my newly hosted github.io site 
-*[clikc here](https://nikosamofa.github.io/pizza-master/)
+*[click here](https://nikosamofa.github.io/pizza-master/)
 ***
 ###Acknowledgements
 
